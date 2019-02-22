@@ -42,10 +42,10 @@
   "homepage": "https://github.com/strong-roots-capital/random-record-stream",
   "dependencies": {
     "@sindresorhus/is": "^0.15.0",
-    "@types/node": "^10.12.18",
+    "@types/node": "^10.12.27",
     "@types/readable-stream": "^2.3.0",
     "ow": "^0.12.0",
-    "random-records-between": "^1.0.1",
+    "random-records-between": "^1.0.2",
     "timeseries-record": "^1.0.0",
     "typescript": "^3.2.2"
   },
