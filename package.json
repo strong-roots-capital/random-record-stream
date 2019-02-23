@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/random-record-stream",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create a Readable stream of random records",
   "main": "dist/random-record-stream.js",
   "types": "dist/random-record-stream.d.ts",
