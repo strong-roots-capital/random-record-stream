@@ -45,7 +45,7 @@ TODO
 
 ▸ **randomRecordStream**(start: *`Date` \| `number`*, end: *`Date` \| `number`*): `Readable`
 
-*Defined in [random-record-stream.ts:20](https://github.com/strong-roots-capital/random-record-stream/blob/f0c70e4/src/random-record-stream.ts#L20)*
+*Defined in [random-record-stream.ts:19](https://github.com/strong-roots-capital/random-record-stream/blob/b656d6c/src/random-record-stream.ts#L19)*
 
 Create a Readable stream of random records between `start` and `end` dates, inclusive.
 
