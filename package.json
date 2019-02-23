@@ -46,7 +46,6 @@
     "@types/readable-stream": "^2.3.0",
     "ow": "^0.12.0",
     "random-records-between": "^1.0.2",
-    "timeseries-record": "^1.0.0",
     "typescript": "^3.2.2"
   },
   "devDependencies": {
@@ -56,6 +55,7 @@
     "moment": "^2.24.0",
     "nyc": "^13.1.0",
     "tap-nyc": "^1.0.3",
+    "timeseries-record": "^1.0.0",
     "ts-node": "^7.0.1",
     "typedoc": "^0.13.0",
     "typedoc-plugin-markdown": "^1.1.20"

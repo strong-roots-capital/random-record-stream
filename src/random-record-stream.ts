@@ -4,7 +4,6 @@
  */
 
 import { Readable } from 'readable-stream'
-import Record from 'timeseries-record'
 import randomRecordsBetween from 'random-records-between'
 import is from '@sindresorhus/is'
 import ow from 'ow'

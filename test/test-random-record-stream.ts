@@ -122,12 +122,9 @@ test.cb('should return a record corresponding to every date between start and en
 
     randomRecordStream(start, end).pipe(t.context.sink)
 
-    console.log('Start date is', start)
-
     t.context.sink.on('finish', () => {
         const expectedDate = moment.utc(start).clone()
         t.context.records.forEach((record: Record) => {
-            console.log('record Date is', new Date(record.Time), 'expectedDate is', expectedDate.toISOString())
             t.is(record.Time, expectedDate.valueOf())
             expectedDate.add(1, 'day')
         })
