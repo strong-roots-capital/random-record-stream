@@ -60,7 +60,7 @@ Related
 
 ▸ **randomRecordStream**(start: *`Date` \| `number`*, end: *`Date` \| `number`*): `Readable`
 
-*Defined in [random-record-stream.ts:19](https://github.com/strong-roots-capital/random-record-stream/blob/204d2d6/src/random-record-stream.ts#L19)*
+*Defined in [random-record-stream.ts:19](https://github.com/strong-roots-capital/random-record-stream/blob/033973b/src/random-record-stream.ts#L19)*
 
 Create a Readable stream of random records between `start` and `end` dates, inclusive.
 
